@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ActividadBonus_Beatriz_Aller_Gonzalez/1.0.0": {
+        "runtime": {
+          "ActividadBonus_Beatriz_Aller_Gonzalez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActividadBonus_Beatriz_Aller_Gonzalez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
